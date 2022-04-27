@@ -1,0 +1,3 @@
+C:/Users/romap/CLionProjects/OptimizationMethods/cmake-build-debug/CMakeFiles/OptimizationMethods.dir
+C:/Users/romap/CLionProjects/OptimizationMethods/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/romap/CLionProjects/OptimizationMethods/cmake-build-debug/CMakeFiles/rebuild_cache.dir

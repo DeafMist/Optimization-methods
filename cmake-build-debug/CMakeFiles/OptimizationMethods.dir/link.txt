@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\OptimizationMethods.dir/objects.a
+C:\mingw64\mingw64\bin\ar.exe cr CMakeFiles\OptimizationMethods.dir/objects.a @CMakeFiles\OptimizationMethods.dir\objects1.rsp
+C:\mingw64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\OptimizationMethods.dir/objects.a -Wl,--no-whole-archive -o OptimizationMethods.exe -Wl,--out-implib,libOptimizationMethods.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\OptimizationMethods.dir\linklibs.rsp
