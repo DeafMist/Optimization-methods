@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/romap/CLionProjects/OptimizationMethods/zad3.cpp
+iostream
+-
+cmath
+-
+vector
+-
+ctime
+-
+
